@@ -25,7 +25,10 @@ This tests is what I need "only" tested/mixed with dependency repositories, and 
 
 
 TODO: Build Status.
+Intalando dependencias.
+---
 
+La Forma más sencilla es instalandolo con los comandos recomendados por odoo en su [README](https://github.com/odoo/odoo/blob/9.0/README.md).
 
 Repositories which we depend from.
 ---
@@ -33,7 +36,6 @@ Repositories which we depend from.
 | Repository                 | Travis  | Shippable | Coveral  | Runbot  |
 |----------------------------|------|------|-------|----------|---------|
 | odoo/odoo                  | N/A  | WIP  | WIP   | WIP      |         |
-| pyve/addons-vauxoo         | WIP  | WIP  | WIP   | WIP      |         |
 
 Hacking Our Website
 ---
